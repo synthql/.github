@@ -1,1 +1,1 @@
-# Welcome to synthql
+# Welcome to SynthQL
